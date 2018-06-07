@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'array'
-version = '1.0.1-0'
+version = '1.2.0-0'
 
 -- LuaDist source
 source = {
-  tag = "1.0.1-0",
+  tag = "1.2.0-0",
   url = "git://github.com/LuaDist-testing/array.git"
 }
 -- Original source
 -- source = {
 --   url = 'git://github.com/evandrolg/array.lua.git',
---   tag = 'v1.0.1'
+--   tag = 'v1.2.0'
 -- }
 
 description = {
